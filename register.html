@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Library Logo" class="logo">
+        <h1>Federal Polytechnic Ugep Library</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="login.html">Login</a>
+        </nav>
+    </header>
+    <main class="container">
+        <h2>Join the Federal Polytechnic Ugep Library</h2>
+        <p>Register to gain access to our extensive collection of academic resources. Whether you're a student or staff member, creating an account allows you to borrow books, reserve titles, and manage your library activities. Please fill out the form below with your details, including your role and department, to get started.</p>
+        <h3>Create an Account</h3>
+        <form id="registerForm">
+            <input type="text" name="fullName" placeholder="Full Name" required>
+            <input type="text" name="username" placeholder="Username" required>
+            <input type="email" name="email" placeholder="Email" required>
+            <input type="password" name="password" placeholder="Password" required>
+            <select name="userType" id="userType" required>
+                <option value="">Select Role</option>
+                <option value="student">Student</option>
+                <option value="staff">Staff</option>
+                <option value="librarian">Librarian</option>
+            </select>
+            <div id="studentFields" style="display: none;">
+                <select name="level">
+                    <option value="">Select Level</option>
+                    <option value="ND1">ND1</option>
+                    <option value="ND2">ND2</option>
+                    <option value="HND1">HND1</option>
+                    <option value="HND2">HND2</option>
+                </select>
+            </div>
+            <div id="staffFields" style="display: none;">
+                <input type="text" name="role" placeholder="Role (e.g., Lecturer)">
+            </div>
+            <button type="submit">Register</button>
+        </form>
+        <p>Already have an account? <a href="login.html">Login here</a></p>
+    </main>
+    <script src="scripts.js"></script>
+</body>
+</html>

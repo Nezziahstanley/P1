@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Profile</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Library Logo" class="logo">
+        <h1>User Profile</h1>
+        <nav>
+            <a href="librarian-dashboard.html">Dashboard</a>
+            <a href="manage-users.html">Manage Users</a>
+            <a href="manage-books.html">Manage Books</a>
+            <a href="manage-borrowing.html">Manage Borrowing</a>
+            <a href="manage-reservations.html">Manage Reservations</a>
+            <div class="profile-dropdown">
+                <a href="#">Profile</a>
+                <div class="profile-dropdown-content">
+                    <a href="profile.html">Edit Profile</a>
+                    <a href="logout.html">Logout</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <h2>User Details</h2>
+        <div class="user-details">
+            <img src="default-profile.png" alt="Profile Picture" class="profile-picture" id="userProfilePicture">
+            <p><strong>Name:</strong> <span id="userFullName"></span></p>
+            <p><strong>Username:</strong> <span id="userUsername"></span></p>
+            <p><strong>Email:</strong> <span id="userEmail"></span></p>
+            <p><strong>Role:</strong> <span id="userType"></span></p>
+            <p><strong>School Role:</strong> <span id="userRole"></span></p>
+            <p><strong>Academic Level:</strong> <span id="userLevel"></span></p>
+        </div>
+        <h2>Borrowing History</h2>
+        <table id="userBorrowingHistory">
+            <tr>
+                <th>Book</th>
+                <th>Borrow Date</th>
+                <th>Due Date</th>
+                <th>Return Date</th>
+            </tr>
+            <!-- Populated by API -->
+        </table>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

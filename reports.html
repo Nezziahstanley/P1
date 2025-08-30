@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reports</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Library Logo" class="logo">
+        <h1>Reports</h1>
+        <nav>
+            <a href="librarian-dashboard.html">Dashboard</a>
+            <a href="manage-books.html">Manage Books</a>
+            <a href="manage-users.html">Manage Users</a>
+            <a href="chart.html" class="btn">View Books by Category Chart</a>
+            <div class="profile-dropdown">
+                <a href="#">Profile</a>
+                <div class="profile-dropdown-content">
+                    <a href="profile.html">Edit Profile</a>
+                    <a href="logout.html">Logout</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <h2>Library Reports</h2>
+        <p>Generate and view reports to monitor library activities, including borrowing statistics, overdue books, and user engagement. Use these insights to optimize library operations.</p>
+        <table id="reportsTable">
+            <tr>
+                <th>Report Type</th>
+                <th>Details</th>
+            </tr>
+            <!-- Populated by API -->
+        </table>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

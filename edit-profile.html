@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Profile</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Library Logo" class="logo">
+        <h1>Edit Profile</h1>
+        <nav>
+            <a href="#" id="dashboardLink">Dashboard</a>
+            <div class="profile-dropdown">
+                <a href="#">Profile</a>
+                <div class="profile-dropdown-content">
+                    <a href="profile.html">Edit Profile</a>
+                    <a href="logout.html">Logout</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <h2>Update Your Profile</h2>
+        <form id="profileForm" enctype="multipart/form-data">
+            <label for="fullName">Full Name:</label>
+            <input type="text" id="fullName" name="fullName" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="profilePicture">Profile Picture:</label>
+            <input type="file" id="profilePicture" name="profilePicture" accept="image/*">
+            <button type="submit">Update Profile</button>
+        </form>
+        <div class="user-details">
+            <img src="default-profile.png" alt="Profile Picture" class="profile-picture" id="userProfilePicture">
+            <p><strong>Name:</strong> <span id="userFullName"></span></p>
+            <p><strong>Username:</strong> <span id="userUsername"></span></p>
+            <p><strong>Email:</strong> <span id="userEmail"></span></p>
+            <p><strong>Role:</strong> <span id="userType"></span></p>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

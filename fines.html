@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fines</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Library Logo" class="logo">
+        <h1>Fines</h1>
+        <nav>
+            <a href="fines.html">My fines</a>
+            <a href="notifications.html">Notifications</a>
+            <div class="profile-dropdown">
+                <a href="#">Profile</a>
+                <div class="profile-dropdown-content">
+                    <a href="profile.html">Edit Profile</a>
+                    <a href="logout.html">Logout</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <h2>Your Fines</h2>
+        <p>View any outstanding fines associated with late returns or other library policies. Contact the library staff to resolve any issues or make payments.</p>
+        <table id="finesTable">
+            <tr>
+                <th>Book</th>
+                <th>Amount</th>
+                <th>Status</th>
+            </tr>
+            <!-- Populated by API -->
+        </table>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Books</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Library Logo" class="logo">
+        <h1>Search Books</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="catalog.html">Catalog</a>
+            <a href="login.html">Login</a>
+        </nav>
+    </header>
+    <div class="container">
+        <h2>Search Our Catalog</h2>
+        <form id="searchForm">
+            <input type="text" id="searchQuery" placeholder="Enter title, author, or ISBN">
+            <select id="sortBy">
+                <option value="title">Title</option>
+                <option value="author">Author</option>
+                <option value="publication_year">Publication Year</option>
+                <option value="isbn">ISBN</option>
+            </select>
+            <select id="sortOrder">
+                <option value="asc">Ascending</option>
+                <option value="desc">Descending</option>
+            </select>
+            <button type="submit" class="btn">Search</button>
+        </form>
+        <div id="searchResults"></div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

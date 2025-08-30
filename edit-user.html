@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit User</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Library Logo" class="logo">
+        <h1>Edit User</h1>
+        <nav>
+            <a href="librarian-dashboard.html">Dashboard</a>
+            <a href="manage-users.html">Manage Users</a>
+            <div class="profile-dropdown">
+                <a href="#">Profile</a>
+                <div class="profile-dropdown-content">
+                    <a href="profile.html">Edit Profile</a>
+                    <a href="logout.html">Logout</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <h2>Update User Details</h2>
+        <p>Modify user information to ensure accurate records for library access and management.</p>
+        <form id="editUserForm">
+            <input type="hidden" name="userId" id="userId">
+            <input type="text" name="fullName" id="fullName" placeholder="Full Name" required>
+            <input type="email" name="email" id="email" placeholder="Email Address" required>
+            <select name="userType" id="userType" required>
+                <option value="student">Student</option>
+                <option value="staff">Staff</option>
+                <option value="librarian">Librarian</option>
+            </select>
+            <button type="submit" class="btn">Update User</button>
+        </form>
+    </div>
+    <script src="scripts.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const urlParams = new URLSearchParams(window.location.search);
+            const userId = urlParams.get('id');
+            if (userId) {
+                fetch(`api.php?action=editUser&userId=${userId}`)
+                    .then(response => response.json())
+                    .then(user => {
+                        document.getElementById('userId').value = user.id;
+                        document.getElementById('fullName').value = user.fullName;
+                        document.getElementById('email').value = user.email;
+                        document.getElementById('userType').value = user.userType;
+                    });
+            }
+
+            const editUserForm = document.getElementById('editUserForm');
+            editUserForm.addEventListener('submit', async (e) => {
+                e.preventDefault();
+                const formData = new FormData(editUserForm);
+                const response = await fetch('api.php?action=updateUser', {
+                    method: 'POST',
+                    body: formData
+                });
+                const result = await response.json();
+                alert(result.message);
+                window.location.href = 'manage-users.html';
+            });
+        });
+    </script>
+</body>
+</html>

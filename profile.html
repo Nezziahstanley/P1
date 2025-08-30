@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Profile</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js"></script>
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Library Logo" class="logo">
+        <h1>Edit Profile</h1>
+        <nav>
+            <a href="login.html">Login again</a>
+            <div class="profile-dropdown">
+                <a href="#">Profile</a>
+                <div class="profile-dropdown-content">
+                    <a href="profile.html">Edit Profile</a>
+                    <a href="logout.html">Logout</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main class="container">
+        <h2>Update Your Profile</h2>
+        <p>Modify your personal details and upload a new profile picture to personalize your library account.</p>
+        <form id="profileForm" enctype="multipart/form-data">
+            <input type="text" name="fullName" id="fullName" placeholder="Full Name" required>
+            <input type="email" name="email" id="email" placeholder="Email" required>
+            <input type="file" name="profilePicture" id="profilePicture" accept="image/*">
+            <img src="" alt="Profile Picture" class="profile-picture" id="currentProfilePicture" style="display: none;">
+            <button type="submit">Update Profile</button>
+        </form>
+    </main>
+</body>
+</html>

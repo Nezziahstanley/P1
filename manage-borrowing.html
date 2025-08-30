@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Borrowings - Library System</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Library Logo" class="logo">
+        <h1>Federal Polytechnic Ugep Library</h1>
+        <nav>
+            <a href="librarian-dashboard.html">Dashboard</a>
+            <a href="manage-users.html">Manage Users</a>
+            <a href="manage-borrowing.html">Manage Borrowings</a>
+            <a href="manage-reservations.html">Manage Reservations</a>
+            <div class="profile-dropdown">
+                <a href="#">Profile <span class="notification-badge">0</span></a>
+                <div class="profile-dropdown-content">
+                    <a href="profile.html">View Profile</a>
+                    <a href="api.php?action=logout">Logout</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <h2>Manage Borrowings</h2>
+        <table id="borrowingsTable">
+            <thead>
+                <tr>
+                    <th>Username</th>
+                    <th>Title</th>
+                    <th>Borrow Date</th>
+                    <th>Due Date</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

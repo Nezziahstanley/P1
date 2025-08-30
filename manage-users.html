@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Users</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js"></script>
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Library Logo" class="logo">
+        <h1>Manage Users</h1>
+        <nav>
+            <a href="librarian-dashboard.html">Dashboard</a>
+            <a href="manage-books.html">Manage Books</a>
+            <a href="manage-borrowing.html">Manage Borrowing</a>
+            <a href="manage-reservations.html">Manage Reservations</a>
+            <div class="profile-dropdown">
+                <a href="#">Profile</a>
+                <div class="profile-dropdown-content">
+                    <a href="profile.html">Edit Profile</a>
+                    <a href="logout.html">Logout</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main class="container">
+        <h2>User Management</h2>
+        <p>View and manage all registered users, including students, staff, and librarians. Edit user details or remove users as needed.</p>
+        <table id="usersTable">
+            <thead>
+                <tr>
+                    <th>Profile Picture</th>
+                    <th>Name</th>
+                    <th>Username</th>
+                    <th>Email</th>
+                    <th>Role</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <a href="add-user.html" class="btn">Register New User</a>
+    </main>
+</body>
+</html>

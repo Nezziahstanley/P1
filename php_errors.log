@@ -1,0 +1,950 @@
+[07-Aug-2025 17:05:53 Europe/Berlin] Processing register action
+[07-Aug-2025 17:05:53 Europe/Berlin] Register input: fullName=Stanley, username=stanley, email=vincentstanley2021@gmail.com, userType=student
+[07-Aug-2025 17:05:53 Europe/Berlin] Register success: User stanley registered
+[07-Aug-2025 17:06:09 Europe/Berlin] Processing login action
+[07-Aug-2025 17:06:09 Europe/Berlin] Login input: username=stanley
+[07-Aug-2025 17:06:10 Europe/Berlin] Login success: User stanley, userType=student
+[07-Aug-2025 17:06:11 Europe/Berlin] Get profile success: User 9
+[07-Aug-2025 17:06:11 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:07:06 Europe/Berlin] Get profile success: User 9
+[07-Aug-2025 17:07:23 Europe/Berlin] Update profile success: User 9 updated
+[07-Aug-2025 17:07:25 Europe/Berlin] Get profile success: User 9
+[07-Aug-2025 17:07:28 Europe/Berlin] Get profile success: User 9
+[07-Aug-2025 17:07:28 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:07:57 Europe/Berlin] Get profile success: User 9
+[07-Aug-2025 17:07:57 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:08:18 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:08:31 Europe/Berlin] Get profile success: User 9
+[07-Aug-2025 17:08:31 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:08:40 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:08:42 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:08:42 Europe/Berlin] Get profile success: User 9
+[07-Aug-2025 17:09:12 Europe/Berlin] Processing register action
+[07-Aug-2025 17:09:12 Europe/Berlin] Register input: fullName=Stanley, username=stanley1, email=ruthubu@gmail.com, userType=staff
+[07-Aug-2025 17:09:12 Europe/Berlin] Register success: User stanley1 registered
+[07-Aug-2025 17:09:18 Europe/Berlin] Processing login action
+[07-Aug-2025 17:09:18 Europe/Berlin] Login input: username=stanley1
+[07-Aug-2025 17:09:18 Europe/Berlin] Login success: User stanley1, userType=staff
+[07-Aug-2025 17:09:19 Europe/Berlin] Get profile success: User 10
+[07-Aug-2025 17:09:19 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:09:29 Europe/Berlin] Get profile success: User 10
+[07-Aug-2025 17:09:29 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:09:36 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:09:36 Europe/Berlin] Get profile success: User 10
+[07-Aug-2025 17:09:42 Europe/Berlin] Get profile success: User 10
+[07-Aug-2025 17:09:42 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:09:45 Europe/Berlin] Get profile success: User 10
+[07-Aug-2025 17:09:55 Europe/Berlin] Update profile success: User 10 updated
+[07-Aug-2025 17:09:57 Europe/Berlin] Get profile success: User 10
+[07-Aug-2025 17:09:59 Europe/Berlin] Get profile success: User 10
+[07-Aug-2025 17:09:59 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:10:04 Europe/Berlin] Get profile success: User 10
+[07-Aug-2025 17:10:06 Europe/Berlin] Get profile success: User 10
+[07-Aug-2025 17:10:06 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:11:54 Europe/Berlin] Get profile success: User 10
+[07-Aug-2025 17:11:54 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:13:16 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:13:17 Europe/Berlin] Get profile success: User 10
+[07-Aug-2025 17:13:26 Europe/Berlin] Get profile success: User 10
+[07-Aug-2025 17:13:26 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:13:32 Europe/Berlin] Get profile success: User 10
+[07-Aug-2025 17:13:33 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:13:35 Europe/Berlin] Get profile success: User 10
+[07-Aug-2025 17:13:36 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:14:08 Europe/Berlin] Processing register action
+[07-Aug-2025 17:14:08 Europe/Berlin] Register input: fullName=Stanley2, username=stanley2, email=stan@gmail.com, userType=librarian
+[07-Aug-2025 17:14:08 Europe/Berlin] Register success: User stanley2 registered
+[07-Aug-2025 17:14:18 Europe/Berlin] Processing login action
+[07-Aug-2025 17:14:18 Europe/Berlin] Login input: username=stanley2
+[07-Aug-2025 17:14:18 Europe/Berlin] Login success: User stanley2, userType=librarian
+[07-Aug-2025 17:14:18 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:14:19 Europe/Berlin] Get profile success: User 11
+[07-Aug-2025 17:14:24 Europe/Berlin] Get users success: Retrieved 7 users
+[07-Aug-2025 17:14:31 Europe/Berlin] Get profile success: User 11
+[07-Aug-2025 17:14:31 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:14:39 Europe/Berlin] Get users success: Retrieved 7 users
+[07-Aug-2025 17:14:42 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:15:57 Europe/Berlin] Get users success: Retrieved 7 users
+[07-Aug-2025 17:16:03 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:16:07 Europe/Berlin] Get borrowings success: Retrieved 0 borrowings
+[07-Aug-2025 17:16:10 Europe/Berlin] Get reservations success: Retrieved 4 reservations
+[07-Aug-2025 17:16:21 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:16:21 Europe/Berlin] Get profile success: User 11
+[07-Aug-2025 17:16:28 Europe/Berlin] Get profile success: User 11
+[07-Aug-2025 17:16:43 Europe/Berlin] Update profile success: User 11 updated
+[07-Aug-2025 17:16:46 Europe/Berlin] Get profile success: User 11
+[07-Aug-2025 17:16:47 Europe/Berlin] Get profile success: User 11
+[07-Aug-2025 17:16:47 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:16:53 Europe/Berlin] Get users success: Retrieved 7 users
+[07-Aug-2025 17:17:14 Europe/Berlin] Get profile success: User 11
+[07-Aug-2025 17:17:14 Europe/Berlin] Invalid action: searchBooks
+[07-Aug-2025 17:27:24 Europe/Berlin] Processing login action
+[07-Aug-2025 17:27:24 Europe/Berlin] Login input: username=stanley1
+[07-Aug-2025 17:27:24 Europe/Berlin] Login error: Invalid password for stanley1
+[07-Aug-2025 17:27:33 Europe/Berlin] Processing login action
+[07-Aug-2025 17:27:33 Europe/Berlin] Login input: username=stanley1
+[07-Aug-2025 17:27:33 Europe/Berlin] Login error: Invalid password for stanley1
+[07-Aug-2025 17:27:36 Europe/Berlin] Processing login action
+[07-Aug-2025 17:27:36 Europe/Berlin] Login input: username=stanley1
+[07-Aug-2025 17:27:36 Europe/Berlin] Login error: Invalid password for stanley1
+[07-Aug-2025 17:27:42 Europe/Berlin] Processing login action
+[07-Aug-2025 17:27:42 Europe/Berlin] Login input: username=stanley1
+[07-Aug-2025 17:27:42 Europe/Berlin] Login error: Invalid password for stanley1
+[07-Aug-2025 17:28:13 Europe/Berlin] Processing register action
+[07-Aug-2025 17:28:13 Europe/Berlin] Register input: fullName=Stanley2, username=stanley2, email=blessingubu2020@gmail.com, userType=librarian
+[07-Aug-2025 17:28:13 Europe/Berlin] Register error: Username or email exists
+[07-Aug-2025 17:28:19 Europe/Berlin] Processing register action
+[07-Aug-2025 17:28:19 Europe/Berlin] Register input: fullName=Stanley2, username=stanley2, email=blessingub2u2020@gmail.com, userType=librarian
+[07-Aug-2025 17:28:19 Europe/Berlin] Register error: Username or email exists
+[07-Aug-2025 17:28:26 Europe/Berlin] Processing register action
+[07-Aug-2025 17:28:26 Europe/Berlin] Register input: fullName=Stanley222, username=stanley22, email=blessingub2u2020@gmail.com, userType=librarian
+[07-Aug-2025 17:28:27 Europe/Berlin] Register success: User stanley22 registered
+[07-Aug-2025 17:28:41 Europe/Berlin] Processing login action
+[07-Aug-2025 17:28:41 Europe/Berlin] Login input: username=stanley22
+[07-Aug-2025 17:28:42 Europe/Berlin] Login success: User stanley22, userType=librarian
+[07-Aug-2025 17:28:42 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 17:28:42 Europe/Berlin] Search books query: 
+[07-Aug-2025 17:28:42 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 17:28:42 Europe/Berlin] Get profile success: User 12
+[07-Aug-2025 17:28:54 Europe/Berlin] Get users success: Retrieved 8 users
+[07-Aug-2025 17:29:09 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 17:29:09 Europe/Berlin] Search books query: 
+[07-Aug-2025 17:29:09 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 17:29:17 Europe/Berlin] Get borrowings success: Retrieved 0 borrowings
+[07-Aug-2025 17:29:19 Europe/Berlin] Get reservations success: Retrieved 4 reservations
+[07-Aug-2025 17:29:24 Europe/Berlin] Get users success: Retrieved 8 users
+[07-Aug-2025 17:29:43 Europe/Berlin] Get profile success: User 12
+[07-Aug-2025 17:29:43 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 17:29:43 Europe/Berlin] Search books query: 
+[07-Aug-2025 17:29:43 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 17:29:52 Europe/Berlin] Get users success: Retrieved 8 users
+[07-Aug-2025 17:30:31 Europe/Berlin] Processing login action
+[07-Aug-2025 17:30:31 Europe/Berlin] Login input: username=stanley
+[07-Aug-2025 17:30:31 Europe/Berlin] Login error: Invalid password for stanley
+[07-Aug-2025 17:30:35 Europe/Berlin] Processing login action
+[07-Aug-2025 17:30:35 Europe/Berlin] Login input: username=stanley
+[07-Aug-2025 17:30:35 Europe/Berlin] Login error: Invalid password for stanley
+[07-Aug-2025 17:30:39 Europe/Berlin] Processing login action
+[07-Aug-2025 17:30:39 Europe/Berlin] Login input: username=stanley1
+[07-Aug-2025 17:30:39 Europe/Berlin] Login error: Invalid password for stanley1
+[07-Aug-2025 17:30:47 Europe/Berlin] Processing login action
+[07-Aug-2025 17:30:47 Europe/Berlin] Login input: username=stanley1
+[07-Aug-2025 17:30:47 Europe/Berlin] Login error: Invalid password for stanley1
+[07-Aug-2025 17:30:52 Europe/Berlin] Processing login action
+[07-Aug-2025 17:30:52 Europe/Berlin] Login input: username=stanley
+[07-Aug-2025 17:30:52 Europe/Berlin] Login error: Invalid password for stanley
+[07-Aug-2025 17:31:56 Europe/Berlin] Processing register action
+[07-Aug-2025 17:31:56 Europe/Berlin] Register input: fullName=Stanley, username=stanley, email=vincentstanley2021@gmail.com, userType=student
+[07-Aug-2025 17:31:56 Europe/Berlin] Register success: User stanley registered
+[07-Aug-2025 17:32:02 Europe/Berlin] Processing login action
+[07-Aug-2025 17:32:02 Europe/Berlin] Login input: username=stanley
+[07-Aug-2025 17:32:02 Europe/Berlin] Login success: User stanley, userType=student
+[07-Aug-2025 17:32:03 Europe/Berlin] Get profile success: User 13
+[07-Aug-2025 17:32:03 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 17:32:03 Europe/Berlin] Search books query: 
+[07-Aug-2025 17:32:03 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 17:32:13 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 202
+[07-Aug-2025 17:32:13 Europe/Berlin] Borrow book error: Book  not available
+[07-Aug-2025 17:32:20 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 202
+[07-Aug-2025 17:32:20 Europe/Berlin] Borrow book error: Book  not available
+[07-Aug-2025 17:32:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 202
+[07-Aug-2025 17:32:22 Europe/Berlin] Borrow book error: Book  not available
+[07-Aug-2025 17:32:24 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 202
+[07-Aug-2025 17:32:24 Europe/Berlin] Borrow book error: Book  not available
+[07-Aug-2025 17:32:27 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 202
+[07-Aug-2025 17:32:27 Europe/Berlin] Borrow book error: Book  not available
+[07-Aug-2025 17:32:30 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 202
+[07-Aug-2025 17:32:30 Europe/Berlin] Borrow book error: Book  not available
+[07-Aug-2025 17:32:32 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 202
+[07-Aug-2025 17:32:32 Europe/Berlin] Borrow book error: Book  not available
+[07-Aug-2025 17:32:34 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 202
+[07-Aug-2025 17:32:34 Europe/Berlin] Borrow book error: Book  not available
+[07-Aug-2025 17:32:36 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 240
+[07-Aug-2025 17:32:36 Europe/Berlin] Reserve book error: Book  not available
+[07-Aug-2025 17:32:40 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 202
+[07-Aug-2025 17:32:40 Europe/Berlin] Borrow book error: Book  not available
+[07-Aug-2025 17:32:42 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 202
+[07-Aug-2025 17:32:42 Europe/Berlin] Borrow book error: Book  not available
+[07-Aug-2025 17:33:30 Europe/Berlin] Processing register action
+[07-Aug-2025 17:33:30 Europe/Berlin] Register input: fullName=admin, username=admin, email=vincentstanley22021@gmail.com, userType=librarian
+[07-Aug-2025 17:33:30 Europe/Berlin] Register success: User admin registered
+[07-Aug-2025 17:33:40 Europe/Berlin] Processing login action
+[07-Aug-2025 17:33:40 Europe/Berlin] Login input: username=admin
+[07-Aug-2025 17:33:40 Europe/Berlin] Login success: User admin, userType=librarian
+[07-Aug-2025 17:33:40 Europe/Berlin] Get profile success: User 14
+[07-Aug-2025 17:33:41 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 17:33:41 Europe/Berlin] Search books query: 
+[07-Aug-2025 17:33:41 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 17:33:42 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 202
+[07-Aug-2025 17:33:42 Europe/Berlin] Borrow book error: Book  not available
+[07-Aug-2025 17:33:44 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 240
+[07-Aug-2025 17:33:44 Europe/Berlin] Reserve book error: Book  not available
+[07-Aug-2025 17:33:49 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 202
+[07-Aug-2025 17:33:49 Europe/Berlin] Borrow book error: Book  not available
+[07-Aug-2025 17:33:53 Europe/Berlin] Get borrowings success: Retrieved 0 borrowings
+[07-Aug-2025 17:33:56 Europe/Berlin] Get reservations success: Retrieved 4 reservations
+[07-Aug-2025 17:33:58 Europe/Berlin] Approve reservation success: Reservation  approved
+[07-Aug-2025 17:33:59 Europe/Berlin] Get reservations success: Retrieved 4 reservations
+[07-Aug-2025 17:34:00 Europe/Berlin] Approve reservation success: Reservation  approved
+[07-Aug-2025 17:34:01 Europe/Berlin] Get reservations success: Retrieved 4 reservations
+[07-Aug-2025 17:34:03 Europe/Berlin] Cancel reservation success: Reservation  cancelled
+[07-Aug-2025 17:34:04 Europe/Berlin] Get reservations success: Retrieved 4 reservations
+[07-Aug-2025 17:34:05 Europe/Berlin] Cancel reservation success: Reservation  cancelled
+[07-Aug-2025 17:34:06 Europe/Berlin] Get reservations success: Retrieved 4 reservations
+[07-Aug-2025 17:34:09 Europe/Berlin] Get users success: Retrieved 6 users
+[07-Aug-2025 17:34:19 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 17:34:19 Europe/Berlin] Search books query: 
+[07-Aug-2025 17:34:19 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 17:34:21 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\library-system\api.php on line 202
+[07-Aug-2025 17:34:21 Europe/Berlin] Borrow book error: Book  not available
+[07-Aug-2025 17:37:11 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 17:37:11 Europe/Berlin] Search books query: 
+[07-Aug-2025 17:37:11 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 17:47:24 Europe/Berlin] Processing register action
+[07-Aug-2025 17:47:24 Europe/Berlin] Register input: fullName=Stanley, username=stanley, email=vincentstanley2021@gmail.com, userType=librarian
+[07-Aug-2025 17:47:24 Europe/Berlin] Register success: User stanley registered
+[07-Aug-2025 17:47:30 Europe/Berlin] Processing login action
+[07-Aug-2025 17:47:30 Europe/Berlin] Login input: username=stanley
+[07-Aug-2025 17:47:30 Europe/Berlin] Login success: User stanley, userType=librarian
+[07-Aug-2025 17:47:30 Europe/Berlin] Get profile success: User 15
+[07-Aug-2025 17:47:30 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 17:47:31 Europe/Berlin] Search books query: 
+[07-Aug-2025 17:47:31 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 17:47:34 Europe/Berlin] Borrow book attempt: userId=15, bookId=
+[07-Aug-2025 17:47:34 Europe/Berlin] Borrow book error: Missing bookId
+[07-Aug-2025 17:47:38 Europe/Berlin] Borrow book attempt: userId=15, bookId=
+[07-Aug-2025 17:47:38 Europe/Berlin] Borrow book error: Missing bookId
+[07-Aug-2025 17:47:53 Europe/Berlin] Reserve book attempt: userId=15, bookId=
+[07-Aug-2025 17:47:53 Europe/Berlin] Reserve book error: Missing bookId
+[07-Aug-2025 17:48:36 Europe/Berlin] Borrow book attempt: userId=15, bookId=
+[07-Aug-2025 17:48:36 Europe/Berlin] Borrow book error: Missing bookId
+[07-Aug-2025 17:48:40 Europe/Berlin] Borrow book attempt: userId=15, bookId=
+[07-Aug-2025 17:48:40 Europe/Berlin] Borrow book error: Missing bookId
+[07-Aug-2025 17:55:00 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 17:55:00 Europe/Berlin] Search books query: 
+[07-Aug-2025 17:55:00 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 17:55:00 Europe/Berlin] Get profile success: User 15
+[07-Aug-2025 17:55:11 Europe/Berlin] Borrow book attempt: userId=15, bookId=
+[07-Aug-2025 17:55:11 Europe/Berlin] Borrow book error: Missing bookId
+[07-Aug-2025 17:55:47 Europe/Berlin] Processing register action
+[07-Aug-2025 17:55:47 Europe/Berlin] Register input: fullName=Stanley, username=stanley, email=vincentstanley2021@gmail.com, userType=librarian
+[07-Aug-2025 17:55:48 Europe/Berlin] Register success: User stanley registered
+[07-Aug-2025 17:55:54 Europe/Berlin] Processing login action
+[07-Aug-2025 17:55:54 Europe/Berlin] Login input: username=stanley
+[07-Aug-2025 17:55:54 Europe/Berlin] Login success: User stanley, userType=librarian
+[07-Aug-2025 17:55:55 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 17:55:55 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 17:55:55 Europe/Berlin] Search books query: 
+[07-Aug-2025 17:55:56 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 17:55:58 Europe/Berlin] Borrow book attempt: userId=16, bookId=
+[07-Aug-2025 17:55:58 Europe/Berlin] Borrow book error: Missing bookId
+[07-Aug-2025 17:56:02 Europe/Berlin] Get borrowings success: Retrieved 0 borrowings
+[07-Aug-2025 17:56:03 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 17:56:03 Europe/Berlin] Search books query: 
+[07-Aug-2025 17:56:04 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 17:56:04 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 17:56:08 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 17:56:08 Europe/Berlin] Search books query: 
+[07-Aug-2025 17:56:08 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 17:56:12 Europe/Berlin] Get users success: Retrieved 5 users
+[07-Aug-2025 17:56:14 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 17:56:14 Europe/Berlin] Search books query: 
+[07-Aug-2025 17:56:14 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 17:56:17 Europe/Berlin] Borrow book attempt: userId=16, bookId=
+[07-Aug-2025 17:56:17 Europe/Berlin] Borrow book error: Missing bookId
+[07-Aug-2025 17:58:08 Europe/Berlin] Processing login action
+[07-Aug-2025 17:58:08 Europe/Berlin] Login input: username=stanley
+[07-Aug-2025 17:58:08 Europe/Berlin] Login success: User stanley, userType=librarian
+[07-Aug-2025 17:58:09 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 17:58:20 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 17:58:23 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 17:58:23 Europe/Berlin] Search books query: 
+[07-Aug-2025 17:58:23 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 17:58:26 Europe/Berlin] Borrow book attempt: userId=16, bookId=
+[07-Aug-2025 17:58:26 Europe/Berlin] Borrow book error: Missing bookId
+[07-Aug-2025 17:58:32 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 18:07:58 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 18:07:58 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:07:58 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:07:58 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:08:02 Europe/Berlin] Borrow book attempt: userId=16, bookId=10
+[07-Aug-2025 18:08:02 Europe/Berlin] Borrow book check: available=10, activeReservations=0
+[07-Aug-2025 18:08:02 Europe/Berlin] Borrow book success: Book 10 borrowed by user 16
+[07-Aug-2025 18:08:05 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:08:05 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:08:05 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:08:13 Europe/Berlin] Get borrowings success: Retrieved 1 borrowings
+[07-Aug-2025 18:08:16 Europe/Berlin] Return book success: Book  returned
+[07-Aug-2025 18:08:17 Europe/Berlin] Get borrowings success: Retrieved 1 borrowings
+[07-Aug-2025 18:08:20 Europe/Berlin] Get borrowings success: Retrieved 1 borrowings
+[07-Aug-2025 18:08:23 Europe/Berlin] Return book success: Book  returned
+[07-Aug-2025 18:08:25 Europe/Berlin] Get borrowings success: Retrieved 1 borrowings
+[07-Aug-2025 18:08:27 Europe/Berlin] Get borrowings success: Retrieved 1 borrowings
+[07-Aug-2025 18:08:30 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 18:08:30 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:08:30 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:08:30 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:08:36 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 18:08:36 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:08:36 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:08:36 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:08:42 Europe/Berlin] Reserve book attempt: userId=16, bookId=9
+[07-Aug-2025 18:08:42 Europe/Berlin] Reserve book check: available=22, activeReservations=0
+[07-Aug-2025 18:08:42 Europe/Berlin] Reserve book success: Book 9 reserved by user 16
+[07-Aug-2025 18:08:45 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:08:45 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:08:45 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:08:47 Europe/Berlin] Borrow book attempt: userId=16, bookId=9
+[07-Aug-2025 18:08:47 Europe/Berlin] Borrow book check: available=22, activeReservations=0
+[07-Aug-2025 18:08:47 Europe/Berlin] Borrow book success: Book 9 borrowed by user 16
+[07-Aug-2025 18:08:48 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:08:48 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:08:48 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:08:54 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:08:54 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:08:54 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:08:57 Europe/Berlin] Borrow book attempt: userId=16, bookId=1
+[07-Aug-2025 18:08:57 Europe/Berlin] Borrow book check: available=10, activeReservations=0
+[07-Aug-2025 18:08:57 Europe/Berlin] Borrow book success: Book 1 borrowed by user 16
+[07-Aug-2025 18:08:58 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:08:58 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:08:58 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:09:01 Europe/Berlin] Get borrowings success: Retrieved 3 borrowings
+[07-Aug-2025 18:09:05 Europe/Berlin] Return book success: Book  returned
+[07-Aug-2025 18:09:06 Europe/Berlin] Get borrowings success: Retrieved 3 borrowings
+[07-Aug-2025 18:09:07 Europe/Berlin] Return book success: Book  returned
+[07-Aug-2025 18:09:08 Europe/Berlin] Get borrowings success: Retrieved 3 borrowings
+[07-Aug-2025 18:09:09 Europe/Berlin] Return book success: Book  returned
+[07-Aug-2025 18:09:10 Europe/Berlin] Get borrowings success: Retrieved 3 borrowings
+[07-Aug-2025 18:09:11 Europe/Berlin] Get borrowings success: Retrieved 3 borrowings
+[07-Aug-2025 18:09:13 Europe/Berlin] Get borrowings success: Retrieved 3 borrowings
+[07-Aug-2025 18:09:14 Europe/Berlin] Get borrowings success: Retrieved 3 borrowings
+[07-Aug-2025 18:09:19 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 18:09:19 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:09:19 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:09:19 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:09:56 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 18:09:56 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:09:56 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:09:56 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:10:03 Europe/Berlin] Borrow book attempt: userId=16, bookId=2
+[07-Aug-2025 18:10:03 Europe/Berlin] Borrow book check: available=12, activeReservations=0
+[07-Aug-2025 18:10:03 Europe/Berlin] Borrow book success: Book 2 borrowed by user 16
+[07-Aug-2025 18:10:05 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:10:05 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:10:05 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:10:12 Europe/Berlin] Get borrowings success: Retrieved 4 borrowings
+[07-Aug-2025 18:10:14 Europe/Berlin] Return book success: Book  returned
+[07-Aug-2025 18:10:15 Europe/Berlin] Get borrowings success: Retrieved 4 borrowings
+[07-Aug-2025 18:10:16 Europe/Berlin] Return book success: Book  returned
+[07-Aug-2025 18:10:17 Europe/Berlin] Get borrowings success: Retrieved 4 borrowings
+[07-Aug-2025 18:10:18 Europe/Berlin] Return book success: Book  returned
+[07-Aug-2025 18:10:19 Europe/Berlin] Get borrowings success: Retrieved 4 borrowings
+[07-Aug-2025 18:10:19 Europe/Berlin] Return book success: Book  returned
+[07-Aug-2025 18:10:21 Europe/Berlin] Get borrowings success: Retrieved 4 borrowings
+[07-Aug-2025 18:10:22 Europe/Berlin] Get borrowings success: Retrieved 4 borrowings
+[07-Aug-2025 18:10:25 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:10:25 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:10:25 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:10:28 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:10:28 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:10:28 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:10:37 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:10:37 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:10:37 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:10:47 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 18:10:47 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:10:47 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:10:47 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:11:19 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 18:11:20 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:11:20 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:11:20 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:11:27 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:11:27 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:11:27 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:11:27 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 18:11:51 Europe/Berlin] Borrow book attempt: userId=16, bookId=3
+[07-Aug-2025 18:11:51 Europe/Berlin] Borrow book check: available=14, activeReservations=0
+[07-Aug-2025 18:11:51 Europe/Berlin] Borrow book success: Book 3 borrowed by user 16
+[07-Aug-2025 18:11:53 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:11:53 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:11:53 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:11:54 Europe/Berlin] Reserve book attempt: userId=16, bookId=4
+[07-Aug-2025 18:11:54 Europe/Berlin] Reserve book check: available=10, activeReservations=0
+[07-Aug-2025 18:11:54 Europe/Berlin] Reserve book success: Book 4 reserved by user 16
+[07-Aug-2025 18:11:55 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:11:55 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:11:55 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:12:12 Europe/Berlin] Get borrowings success: Retrieved 5 borrowings
+[07-Aug-2025 18:12:22 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:12:22 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:12:22 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:12:22 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 18:12:30 Europe/Berlin] Get reservations success: Retrieved 2 reservations
+[07-Aug-2025 18:12:32 Europe/Berlin] Approve reservation success: Reservation  approved
+[07-Aug-2025 18:12:33 Europe/Berlin] Get reservations success: Retrieved 2 reservations
+[07-Aug-2025 18:12:34 Europe/Berlin] Approve reservation success: Reservation  approved
+[07-Aug-2025 18:12:36 Europe/Berlin] Get reservations success: Retrieved 2 reservations
+[07-Aug-2025 18:12:37 Europe/Berlin] Get reservations success: Retrieved 2 reservations
+[07-Aug-2025 18:12:39 Europe/Berlin] Get reservations success: Retrieved 2 reservations
+[07-Aug-2025 18:12:42 Europe/Berlin] Cancel reservation success: Reservation  cancelled
+[07-Aug-2025 18:12:44 Europe/Berlin] Get reservations success: Retrieved 2 reservations
+[07-Aug-2025 18:12:44 Europe/Berlin] Cancel reservation success: Reservation  cancelled
+[07-Aug-2025 18:12:46 Europe/Berlin] Get reservations success: Retrieved 2 reservations
+[07-Aug-2025 18:12:47 Europe/Berlin] Get reservations success: Retrieved 2 reservations
+[07-Aug-2025 18:12:48 Europe/Berlin] Get reservations success: Retrieved 2 reservations
+[07-Aug-2025 18:12:49 Europe/Berlin] Get reservations success: Retrieved 2 reservations
+[07-Aug-2025 18:12:50 Europe/Berlin] Get reservations success: Retrieved 2 reservations
+[07-Aug-2025 18:24:44 Europe/Berlin] Get reservations success: Retrieved 2 reservations
+[07-Aug-2025 18:24:45 Europe/Berlin] Approve reservation attempt: reservationId=5
+[07-Aug-2025 18:24:45 Europe/Berlin] Approve reservation success: Reservation 5 approved
+[07-Aug-2025 18:24:47 Europe/Berlin] Get reservations success: Retrieved 2 reservations
+[07-Aug-2025 18:24:49 Europe/Berlin] Cancel reservation attempt: reservationId=6
+[07-Aug-2025 18:24:49 Europe/Berlin] Cancel reservation success: Reservation 6 cancelled
+[07-Aug-2025 18:24:51 Europe/Berlin] Get reservations success: Retrieved 2 reservations
+[07-Aug-2025 18:24:53 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:24:53 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:24:53 Europe/Berlin] Search books success: Retrieved 47 books
+[07-Aug-2025 18:24:53 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 18:24:59 Europe/Berlin] Get borrowings success: Retrieved 5 borrowings
+[07-Aug-2025 18:25:01 Europe/Berlin] Return book attempt: borrowingId=1, bookId=10
+[07-Aug-2025 18:25:01 Europe/Berlin] Return book success: Book 10 returned, borrowing 1
+[07-Aug-2025 18:25:02 Europe/Berlin] Get borrowings success: Retrieved 4 borrowings
+[07-Aug-2025 18:25:03 Europe/Berlin] Return book attempt: borrowingId=2, bookId=9
+[07-Aug-2025 18:25:03 Europe/Berlin] Return book success: Book 9 returned, borrowing 2
+[07-Aug-2025 18:25:05 Europe/Berlin] Get borrowings success: Retrieved 3 borrowings
+[07-Aug-2025 18:25:05 Europe/Berlin] Return book attempt: borrowingId=4, bookId=2
+[07-Aug-2025 18:25:05 Europe/Berlin] Return book success: Book 2 returned, borrowing 4
+[07-Aug-2025 18:25:07 Europe/Berlin] Get borrowings success: Retrieved 2 borrowings
+[07-Aug-2025 18:25:07 Europe/Berlin] Return book attempt: borrowingId=3, bookId=1
+[07-Aug-2025 18:25:07 Europe/Berlin] Return book success: Book 1 returned, borrowing 3
+[07-Aug-2025 18:25:09 Europe/Berlin] Get borrowings success: Retrieved 1 borrowings
+[07-Aug-2025 18:25:10 Europe/Berlin] Return book attempt: borrowingId=5, bookId=3
+[07-Aug-2025 18:25:10 Europe/Berlin] Return book success: Book 3 returned, borrowing 5
+[07-Aug-2025 18:25:11 Europe/Berlin] Get borrowings success: Retrieved 0 borrowings
+[07-Aug-2025 18:25:14 Europe/Berlin] Get profile success: User 16
+[07-Aug-2025 18:25:14 Europe/Berlin] Processing searchBooks action
+[07-Aug-2025 18:25:14 Europe/Berlin] Search books query: 
+[07-Aug-2025 18:25:14 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 12:15:05 Europe/Berlin] Get profile success: User 16
+[08-Aug-2025 12:15:05 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 12:15:05 Europe/Berlin] Search books query: 
+[08-Aug-2025 12:15:05 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 12:17:58 Europe/Berlin] Processing register action
+[08-Aug-2025 12:17:58 Europe/Berlin] Register input: fullName=stanley, username=librarian, email=vincentstanley2021@gmail.com, userType=librarian
+[08-Aug-2025 12:17:58 Europe/Berlin] Register success: User librarian registered
+[08-Aug-2025 12:18:26 Europe/Berlin] Processing login action
+[08-Aug-2025 12:18:26 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 12:18:26 Europe/Berlin] Login error: Invalid password for librarian
+[08-Aug-2025 12:18:37 Europe/Berlin] Processing login action
+[08-Aug-2025 12:18:37 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 12:18:38 Europe/Berlin] Login success: User librarian, userType=librarian
+[08-Aug-2025 12:18:38 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 12:18:38 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 12:18:38 Europe/Berlin] Search books query: 
+[08-Aug-2025 12:18:38 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 12:18:47 Europe/Berlin] Get users success: Retrieved 1 users
+[08-Aug-2025 12:18:53 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 12:20:12 Europe/Berlin] Update profile success: User 17 updated
+[08-Aug-2025 12:20:15 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 12:20:20 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 12:20:20 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 12:20:20 Europe/Berlin] Search books query: 
+[08-Aug-2025 12:20:20 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 12:36:14 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 12:36:14 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 12:36:14 Europe/Berlin] Search books query: 
+[08-Aug-2025 12:36:14 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 13:19:49 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 13:19:49 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 13:19:49 Europe/Berlin] Search books query: 
+[08-Aug-2025 13:19:49 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 13:20:36 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 13:20:36 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 13:20:36 Europe/Berlin] Search books query: 
+[08-Aug-2025 13:20:36 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 13:21:14 Europe/Berlin] Get users success: Retrieved 1 users
+[08-Aug-2025 13:33:36 Europe/Berlin] Get users success: Retrieved 1 users
+[08-Aug-2025 13:33:40 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 13:33:40 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 13:33:40 Europe/Berlin] Search books query: 
+[08-Aug-2025 13:33:40 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 13:33:51 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 13:33:51 Europe/Berlin] Search books query: 
+[08-Aug-2025 13:33:51 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 13:35:54 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 13:36:02 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 13:36:02 Europe/Berlin] Search books query: 
+[08-Aug-2025 13:36:02 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 13:37:06 Europe/Berlin] Invalid action: logout
+[08-Aug-2025 13:37:14 Europe/Berlin] Invalid action: logout
+[08-Aug-2025 13:37:18 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 13:37:18 Europe/Berlin] Search books query: 
+[08-Aug-2025 13:37:18 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 13:37:24 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 13:37:24 Europe/Berlin] Search books query: 
+[08-Aug-2025 13:37:24 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 13:37:42 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 13:37:42 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 13:37:42 Europe/Berlin] Search books query: 
+[08-Aug-2025 13:37:42 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:09:36 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:09:36 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:09:36 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:09:36 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:09:37 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:09:37 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:09:37 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:09:37 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:10:11 Europe/Berlin] Get users success: Retrieved 1 users
+[08-Aug-2025 14:29:36 Europe/Berlin] Get users success: Retrieved 1 users
+[08-Aug-2025 14:29:39 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:29:39 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:29:39 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:29:39 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:29:52 Europe/Berlin] Get users success: Retrieved 1 users
+[08-Aug-2025 14:29:55 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:29:55 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:29:55 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:30:00 Europe/Berlin] Get borrowings success: Retrieved 0 borrowings
+[08-Aug-2025 14:30:02 Europe/Berlin] Get reservations success: Retrieved 0 reservations
+[08-Aug-2025 14:30:05 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:30:08 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:30:08 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:30:08 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:30:08 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:33:51 Europe/Berlin] Processing login action
+[08-Aug-2025 14:33:51 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 14:33:52 Europe/Berlin] Login success: User librarian, userType=librarian
+[08-Aug-2025 14:33:52 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:33:53 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:33:53 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:33:53 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:35:54 Europe/Berlin] Processing login action
+[08-Aug-2025 14:35:54 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 14:35:54 Europe/Berlin] Login success: User librarian, userType=librarian
+[08-Aug-2025 14:35:55 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:35:55 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:35:55 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:35:55 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:44:31 Europe/Berlin] Processing login action
+[08-Aug-2025 14:44:31 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 14:44:31 Europe/Berlin] Login success: User librarian, userType=librarian
+[08-Aug-2025 14:44:32 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:44:32 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:44:32 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:44:32 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:45:04 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:45:04 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:45:04 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:45:04 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:46:16 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:46:16 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:46:16 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:46:16 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:47:34 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:47:34 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:47:34 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:47:34 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:47:38 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:47:44 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:47:45 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:47:45 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:47:45 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:48:05 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:50:38 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:50:38 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:50:38 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:50:38 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:50:41 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:50:41 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:50:41 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:50:41 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:51:02 Europe/Berlin] Get users success: Retrieved 1 users
+[08-Aug-2025 14:51:06 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:51:07 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:51:07 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:51:07 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:53:32 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:53:32 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:53:32 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:53:32 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:53:54 Europe/Berlin] Get users success: Retrieved 1 users
+[08-Aug-2025 14:56:23 Europe/Berlin] Get users success: Retrieved 1 users
+[08-Aug-2025 14:56:26 Europe/Berlin] Get users success: Retrieved 1 users
+[08-Aug-2025 14:56:40 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:56:41 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:56:41 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:56:41 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:56:45 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:56:52 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:56:52 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:56:52 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:56:52 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:58:19 Europe/Berlin] Processing login action
+[08-Aug-2025 14:58:19 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 14:58:20 Europe/Berlin] Login success: User librarian, userType=librarian
+[08-Aug-2025 14:58:20 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 14:58:20 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:58:20 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:58:20 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:58:34 Europe/Berlin] Borrow book attempt: userId=17, bookId=26
+[08-Aug-2025 14:58:34 Europe/Berlin] Borrow book check: available=1, activeReservations=0
+[08-Aug-2025 14:58:34 Europe/Berlin] Borrow book success: Book 26 borrowed by user 17
+[08-Aug-2025 14:58:35 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:58:35 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:58:35 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:59:07 Europe/Berlin] Processing register action
+[08-Aug-2025 14:59:07 Europe/Berlin] Register input: fullName=st, username=st, email=st@gmail.com, userType=student
+[08-Aug-2025 14:59:07 Europe/Berlin] Register success: User st registered
+[08-Aug-2025 14:59:20 Europe/Berlin] Processing login action
+[08-Aug-2025 14:59:20 Europe/Berlin] Login input: username=st
+[08-Aug-2025 14:59:20 Europe/Berlin] Login success: User st, userType=student
+[08-Aug-2025 14:59:21 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 14:59:21 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:59:21 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:59:21 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 14:59:34 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 14:59:48 Europe/Berlin] Update profile success: User 18 updated
+[08-Aug-2025 14:59:51 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 14:59:54 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 14:59:54 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 14:59:54 Europe/Berlin] Search books query: 
+[08-Aug-2025 14:59:54 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 15:00:27 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 15:01:43 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 15:01:46 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 15:01:46 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 15:01:46 Europe/Berlin] Search books query: 
+[08-Aug-2025 15:01:46 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 15:01:56 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 15:01:56 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 15:01:56 Europe/Berlin] Search books query: 
+[08-Aug-2025 15:01:56 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 15:02:02 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 15:02:06 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 15:02:06 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 15:02:06 Europe/Berlin] Search books query: 
+[08-Aug-2025 15:02:06 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 15:02:42 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 15:02:42 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 15:02:42 Europe/Berlin] Search books query: 
+[08-Aug-2025 15:02:42 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 15:02:45 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 15:02:48 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 15:02:48 Europe/Berlin] Search books query: 
+[08-Aug-2025 15:02:48 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 15:02:48 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 15:05:34 Europe/Berlin] Processing login action
+[08-Aug-2025 15:05:34 Europe/Berlin] Login input: username=st
+[08-Aug-2025 15:05:35 Europe/Berlin] Login success: User st, userType=student
+[08-Aug-2025 15:05:35 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 15:05:35 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 15:05:35 Europe/Berlin] Search books query: 
+[08-Aug-2025 15:05:35 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 15:06:03 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 15:06:10 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 15:07:04 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 15:08:59 Europe/Berlin] Processing login action
+[08-Aug-2025 15:08:59 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 15:09:00 Europe/Berlin] Login error: Invalid password for librarian
+[08-Aug-2025 15:09:10 Europe/Berlin] Processing login action
+[08-Aug-2025 15:09:10 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 15:09:10 Europe/Berlin] Login success: User librarian, userType=librarian
+[08-Aug-2025 15:09:10 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 15:09:10 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 15:09:10 Europe/Berlin] Search books query: 
+[08-Aug-2025 15:09:10 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 15:09:13 Europe/Berlin] Get borrowings success: Retrieved 1 borrowings
+[08-Aug-2025 15:09:22 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 15:09:38 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 15:09:38 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 15:09:38 Europe/Berlin] Search books query: 
+[08-Aug-2025 15:09:38 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 15:09:40 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 15:09:40 Europe/Berlin] Search books query: 
+[08-Aug-2025 15:09:40 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 15:09:42 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 15:09:42 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 15:09:42 Europe/Berlin] Search books query: 
+[08-Aug-2025 15:09:42 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 15:09:43 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 15:09:43 Europe/Berlin] Search books query: 
+[08-Aug-2025 15:09:43 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 15:11:19 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 15:11:35 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 15:11:35 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 15:11:35 Europe/Berlin] Search books query: 
+[08-Aug-2025 15:11:35 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 15:11:44 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 15:11:44 Europe/Berlin] Search books query: 
+[08-Aug-2025 15:11:44 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 15:11:47 Europe/Berlin] Get users success: Retrieved 2 users
+[08-Aug-2025 15:11:56 Europe/Berlin] Get borrowings success: Retrieved 1 borrowings
+[08-Aug-2025 15:11:58 Europe/Berlin] Return book attempt: borrowingId=6, bookId=26
+[08-Aug-2025 15:11:58 Europe/Berlin] Return book success: Book 26 returned, borrowing 6
+[08-Aug-2025 15:11:59 Europe/Berlin] Get borrowings success: Retrieved 0 borrowings
+[08-Aug-2025 15:12:01 Europe/Berlin] Get reservations success: Retrieved 0 reservations
+[08-Aug-2025 15:12:03 Europe/Berlin] Get borrowings success: Retrieved 0 borrowings
+[08-Aug-2025 15:12:06 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 15:12:12 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 15:21:59 Europe/Berlin] Get profile success: User 18
+[08-Aug-2025 15:21:59 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 15:21:59 Europe/Berlin] Search books query: 
+[08-Aug-2025 15:21:59 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 18:42:06 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 18:42:06 Europe/Berlin] Search books query: 
+[08-Aug-2025 18:42:06 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 18:42:06 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 18:47:17 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 18:47:17 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 18:47:17 Europe/Berlin] Search books query: 
+[08-Aug-2025 18:47:17 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 18:47:23 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 18:47:25 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 18:47:25 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 18:47:25 Europe/Berlin] Search books query: 
+[08-Aug-2025 18:47:25 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 18:47:47 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 18:48:05 Europe/Berlin] Update profile success: User 19 updated
+[08-Aug-2025 18:48:08 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 18:50:38 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 18:56:42 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 18:57:14 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 18:57:31 Europe/Berlin] Processing login action
+[08-Aug-2025 18:57:31 Europe/Berlin] Login input: username=vincent
+[08-Aug-2025 18:57:32 Europe/Berlin] Login success: User vincent, userType=student
+[08-Aug-2025 18:57:32 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 18:57:32 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 18:57:32 Europe/Berlin] Search books query: 
+[08-Aug-2025 18:57:32 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 18:57:41 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 18:58:22 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 18:58:25 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:03:13 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:03:20 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:03:20 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 19:03:20 Europe/Berlin] Search books query: 
+[08-Aug-2025 19:03:20 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 19:03:23 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:03:23 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 19:03:23 Europe/Berlin] Search books query: 
+[08-Aug-2025 19:03:23 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 19:05:08 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:05:09 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 19:05:09 Europe/Berlin] Search books query: 
+[08-Aug-2025 19:05:09 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 19:05:10 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:05:10 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 19:05:10 Europe/Berlin] Search books query: 
+[08-Aug-2025 19:05:10 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 19:05:14 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:05:16 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:05:17 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:05:19 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:05:20 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:05:21 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:05:39 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:05:45 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:06:00 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:06:02 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:07:43 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:07:46 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:10:23 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:10:24 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:21:01 Europe/Berlin] Get profile success: User 19
+[08-Aug-2025 19:21:10 Europe/Berlin] Processing login action
+[08-Aug-2025 19:21:10 Europe/Berlin] Login input: username=vincent
+[08-Aug-2025 19:21:13 Europe/Berlin] Login success: User vincent, userType=student
+[08-Aug-2025 19:21:13 Europe/Berlin] Processing login action
+[08-Aug-2025 19:21:13 Europe/Berlin] Login input: username=vincent
+[08-Aug-2025 19:21:14 Europe/Berlin] Processing login action
+[08-Aug-2025 19:21:14 Europe/Berlin] Login input: username=vincent
+[08-Aug-2025 19:21:16 Europe/Berlin] Processing login action
+[08-Aug-2025 19:21:16 Europe/Berlin] Login input: username=vincent
+[08-Aug-2025 19:21:16 Europe/Berlin] Login success: User vincent, userType=student
+[08-Aug-2025 19:21:16 Europe/Berlin] Login success: User vincent, userType=student
+[08-Aug-2025 19:21:16 Europe/Berlin] Processing login action
+[08-Aug-2025 19:21:16 Europe/Berlin] Login input: username=vincent
+[08-Aug-2025 19:21:17 Europe/Berlin] Login success: User vincent, userType=student
+[08-Aug-2025 19:21:17 Europe/Berlin] Login success: User vincent, userType=student
+[08-Aug-2025 19:21:21 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 19:22:15 Europe/Berlin] Processing login action
+[08-Aug-2025 19:22:15 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 19:22:16 Europe/Berlin] Login success: User librarian, userType=librarian
+[08-Aug-2025 19:22:16 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 19:22:17 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 19:22:17 Europe/Berlin] Search books query: 
+[08-Aug-2025 19:22:17 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 19:25:25 Europe/Berlin] Get borrowings success: Retrieved 0 borrowings
+[08-Aug-2025 19:25:31 Europe/Berlin] Get borrowings success: Retrieved 0 borrowings
+[08-Aug-2025 19:25:33 Europe/Berlin] Get borrowings success: Retrieved 0 borrowings
+[08-Aug-2025 19:25:34 Europe/Berlin] Get users success: Retrieved 2 users
+[08-Aug-2025 19:25:47 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 19:25:47 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 19:25:47 Europe/Berlin] Search books query: 
+[08-Aug-2025 19:25:47 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 19:25:54 Europe/Berlin] Get users success: Retrieved 2 users
+[08-Aug-2025 19:29:03 Europe/Berlin] Get users success: Retrieved 1 users
+[08-Aug-2025 19:29:08 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 19:29:24 Europe/Berlin] Update profile success: User 17 updated
+[08-Aug-2025 19:29:26 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 19:29:40 Europe/Berlin] Processing login action
+[08-Aug-2025 19:29:40 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 19:29:40 Europe/Berlin] Login success: User librarian, userType=librarian
+[08-Aug-2025 19:29:41 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 19:29:42 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 19:29:42 Europe/Berlin] Search books query: 
+[08-Aug-2025 19:29:42 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 20:53:33 Europe/Berlin] Processing login action
+[08-Aug-2025 20:53:33 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 20:53:33 Europe/Berlin] Login success: User librarian, userType=librarian
+[08-Aug-2025 20:53:34 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 20:53:34 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 20:53:34 Europe/Berlin] Search books query: 
+[08-Aug-2025 20:53:34 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 20:53:45 Europe/Berlin] Get users success: Retrieved 1 users
+[08-Aug-2025 20:53:49 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 20:53:49 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 20:53:49 Europe/Berlin] Search books query: 
+[08-Aug-2025 20:53:49 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 20:53:51 Europe/Berlin] Get users success: Retrieved 1 users
+[08-Aug-2025 20:53:57 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 20:53:57 Europe/Berlin] Search books query: 
+[08-Aug-2025 20:53:57 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 20:54:03 Europe/Berlin] Get borrowings success: Retrieved 0 borrowings
+[08-Aug-2025 20:54:07 Europe/Berlin] Get reservations success: Retrieved 0 reservations
+[08-Aug-2025 20:54:13 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 20:54:21 Europe/Berlin] Get reservations success: Retrieved 0 reservations
+[08-Aug-2025 20:54:24 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 20:54:24 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 20:54:24 Europe/Berlin] Search books query: 
+[08-Aug-2025 20:54:24 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 20:54:36 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 20:56:04 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 20:56:05 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 20:56:05 Europe/Berlin] Search books query: 
+[08-Aug-2025 20:56:05 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 20:56:07 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 20:56:07 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 20:56:07 Europe/Berlin] Search books query: 
+[08-Aug-2025 20:56:07 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 20:57:21 Europe/Berlin] Processing register action
+[08-Aug-2025 20:57:21 Europe/Berlin] Register input: fullName=Stanley Vincent, username=vincent, email=vincentstanley2021@gmail.com, userType=student
+[08-Aug-2025 20:57:22 Europe/Berlin] Register success: User vincent registered
+[08-Aug-2025 20:57:48 Europe/Berlin] Processing login action
+[08-Aug-2025 20:57:48 Europe/Berlin] Login input: username=vincent
+[08-Aug-2025 20:57:48 Europe/Berlin] Login success: User vincent, userType=student
+[08-Aug-2025 20:57:49 Europe/Berlin] Get profile success: User 20
+[08-Aug-2025 20:57:49 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 20:57:49 Europe/Berlin] Search books query: 
+[08-Aug-2025 20:57:49 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 20:58:02 Europe/Berlin] Get profile success: User 20
+[08-Aug-2025 20:58:02 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 20:58:02 Europe/Berlin] Search books query: 
+[08-Aug-2025 20:58:02 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 20:58:05 Europe/Berlin] Get profile success: User 20
+[08-Aug-2025 20:58:33 Europe/Berlin] Update profile success: User 20 updated
+[08-Aug-2025 20:58:34 Europe/Berlin] Get profile success: User 20
+[08-Aug-2025 20:58:47 Europe/Berlin] Processing login action
+[08-Aug-2025 20:58:47 Europe/Berlin] Login input: username=vincent
+[08-Aug-2025 20:58:47 Europe/Berlin] Login success: User vincent, userType=student
+[08-Aug-2025 20:58:47 Europe/Berlin] Get profile success: User 20
+[08-Aug-2025 20:58:47 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 20:58:47 Europe/Berlin] Search books query: 
+[08-Aug-2025 20:58:47 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 20:58:53 Europe/Berlin] Borrow book attempt: userId=20, bookId=1
+[08-Aug-2025 20:58:53 Europe/Berlin] Borrow book check: available=20, activeReservations=0
+[08-Aug-2025 20:58:53 Europe/Berlin] Borrow book success: Book 1 borrowed by user 20
+[08-Aug-2025 20:58:55 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 20:58:55 Europe/Berlin] Search books query: 
+[08-Aug-2025 20:58:55 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 20:59:29 Europe/Berlin] Get profile success: User 20
+[08-Aug-2025 20:59:30 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 20:59:30 Europe/Berlin] Search books query: 
+[08-Aug-2025 20:59:30 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 20:59:46 Europe/Berlin] Reserve book attempt: userId=20, bookId=3
+[08-Aug-2025 20:59:46 Europe/Berlin] Reserve book check: available=16, activeReservations=0
+[08-Aug-2025 20:59:46 Europe/Berlin] Reserve book success: Book 3 reserved by user 20
+[08-Aug-2025 20:59:48 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 20:59:48 Europe/Berlin] Search books query: 
+[08-Aug-2025 20:59:48 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 21:00:44 Europe/Berlin] Processing login action
+[08-Aug-2025 21:00:44 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 21:00:46 Europe/Berlin] Login error: Invalid password for librarian
+[08-Aug-2025 21:00:46 Europe/Berlin] Processing login action
+[08-Aug-2025 21:00:46 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 21:00:48 Europe/Berlin] Login error: Invalid password for librarian
+[08-Aug-2025 21:00:48 Europe/Berlin] Processing login action
+[08-Aug-2025 21:00:48 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 21:00:49 Europe/Berlin] Login error: Invalid password for librarian
+[08-Aug-2025 21:00:49 Europe/Berlin] Processing login action
+[08-Aug-2025 21:00:49 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 21:00:49 Europe/Berlin] Login error: Invalid password for librarian
+[08-Aug-2025 21:00:50 Europe/Berlin] Processing login action
+[08-Aug-2025 21:00:50 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 21:00:50 Europe/Berlin] Login error: Invalid password for librarian
+[08-Aug-2025 21:00:50 Europe/Berlin] Processing login action
+[08-Aug-2025 21:00:50 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 21:00:52 Europe/Berlin] Login error: Invalid password for librarian
+[08-Aug-2025 21:00:52 Europe/Berlin] Processing login action
+[08-Aug-2025 21:00:52 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 21:00:57 Europe/Berlin] Login error: Invalid password for librarian
+[08-Aug-2025 21:00:57 Europe/Berlin] Processing login action
+[08-Aug-2025 21:00:57 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 21:00:57 Europe/Berlin] Login error: Invalid password for librarian
+[08-Aug-2025 21:01:07 Europe/Berlin] Processing login action
+[08-Aug-2025 21:01:07 Europe/Berlin] Login input: username=librarian
+[08-Aug-2025 21:01:08 Europe/Berlin] Login success: User librarian, userType=librarian
+[08-Aug-2025 21:01:09 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 21:01:09 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 21:01:09 Europe/Berlin] Search books query: 
+[08-Aug-2025 21:01:09 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 21:01:18 Europe/Berlin] Get users success: Retrieved 2 users
+[08-Aug-2025 21:01:37 Europe/Berlin] Get reservations success: Retrieved 1 reservations
+[08-Aug-2025 21:01:42 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 21:01:42 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 21:01:42 Europe/Berlin] Search books query: 
+[08-Aug-2025 21:01:42 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 21:01:52 Europe/Berlin] Get reservations success: Retrieved 1 reservations
+[08-Aug-2025 21:01:53 Europe/Berlin] Approve reservation attempt: reservationId=8
+[08-Aug-2025 21:01:53 Europe/Berlin] Approve reservation success: Reservation 8 approved
+[08-Aug-2025 21:01:55 Europe/Berlin] Get reservations success: Retrieved 1 reservations
+[08-Aug-2025 21:01:58 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 21:01:58 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 21:01:58 Europe/Berlin] Search books query: 
+[08-Aug-2025 21:01:58 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 21:02:07 Europe/Berlin] Get borrowings success: Retrieved 1 borrowings
+[08-Aug-2025 21:02:17 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 21:02:17 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 21:02:17 Europe/Berlin] Search books query: 
+[08-Aug-2025 21:02:17 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 21:02:25 Europe/Berlin] Get borrowings success: Retrieved 1 borrowings
+[08-Aug-2025 21:02:28 Europe/Berlin] Get borrowings success: Retrieved 1 borrowings
+[08-Aug-2025 21:02:30 Europe/Berlin] Return book attempt: borrowingId=8, bookId=1
+[08-Aug-2025 21:02:30 Europe/Berlin] Return book success: Book 1 returned, borrowing 8
+[08-Aug-2025 21:02:31 Europe/Berlin] Get borrowings success: Retrieved 0 borrowings
+[08-Aug-2025 21:02:34 Europe/Berlin] Get profile success: User 17
+[08-Aug-2025 21:02:34 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 21:02:34 Europe/Berlin] Search books query: 
+[08-Aug-2025 21:02:34 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 21:03:24 Europe/Berlin] Processing login action
+[08-Aug-2025 21:03:24 Europe/Berlin] Login input: username=vincent
+[08-Aug-2025 21:03:24 Europe/Berlin] Login success: User vincent, userType=student
+[08-Aug-2025 21:03:25 Europe/Berlin] Get profile success: User 20
+[08-Aug-2025 21:03:25 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 21:03:25 Europe/Berlin] Search books query: 
+[08-Aug-2025 21:03:25 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 21:03:30 Europe/Berlin] Get profile success: User 20
+[08-Aug-2025 21:03:30 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 21:03:30 Europe/Berlin] Search books query: 
+[08-Aug-2025 21:03:30 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 21:03:52 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 21:03:52 Europe/Berlin] Search books query: 
+[08-Aug-2025 21:03:52 Europe/Berlin] Search books success: Retrieved 47 books
+[08-Aug-2025 21:03:52 Europe/Berlin] Get profile success: User 20
+[08-Aug-2025 21:04:06 Europe/Berlin] Get profile success: User 20
+[08-Aug-2025 21:04:06 Europe/Berlin] Processing searchBooks action
+[08-Aug-2025 21:04:06 Europe/Berlin] Search books query: 
+[08-Aug-2025 21:04:06 Europe/Berlin] Search books success: Retrieved 47 books

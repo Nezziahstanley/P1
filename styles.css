@@ -1,0 +1,345 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles with background image */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #FFFFFF;
+}
+
+/* Main container for all content */
+.container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* Header styles */
+header {
+    background: #006400;
+    color: #FFFFFF;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .logo {
+    width: 100px;
+    height: auto;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+    color: #FFC107;
+}
+
+/* Navigation styles */
+nav {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    transition: background 0.3s;
+}
+
+nav a:hover {
+    background: #FFC107;
+    color: #006400;
+    border-radius: 5px;
+}
+
+#librarianNotifications p {
+    background: rgba(0, 100, 0, 0.8);
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#librarianNotifications a {
+    margin-left: 1rem;
+}
+
+/* Notification badge */
+.notification-badge {
+    background: #FFC107;
+    color: #006400;
+    border-radius: 50%;
+    padding: 0.2rem 0.5rem;
+    font-size: 0.8rem;
+    font-weight: bold;
+    margin-left: 0.5rem;
+}
+
+/* Profile dropdown */
+.profile-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.profile-dropdown-content {
+    display: none;
+    position: absolute;
+    background: #006400;
+    min-width: 160px;
+    right: 0;
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.profile-dropdown-content a {
+    color: #FFFFFF;
+    padding: 12px 16px;
+    display: block;
+}
+
+.profile-dropdown-content a:hover {
+    background: #FFC107;
+    color: #006400;
+}
+
+.profile-dropdown:hover .profile-dropdown-content {
+    display: block;
+}
+
+/* Headings */
+h2 {
+    margin-bottom: 1.5rem;
+    color: #FFC107;
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+/* Paragraphs */
+p {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+
+/* Form styles */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+form label {
+    font-weight: bold;
+    color: #006400;
+}
+
+form input, form select, form textarea {
+    padding: 0.75rem;
+    border: 1px solid #FFC107;
+    border-radius: 5px;
+    background: #FFFFFF;
+    color: #006400;
+    font-size: 1rem;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+form input:focus, form select:focus, form textarea:focus {
+    outline: none;
+    border-color: #006400;
+    box-shadow: 0 0 5px rgba(0, 100, 0, 0.3);
+}
+
+/* Button styles */
+button, .btn {
+    background: #006400;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 5px;
+    transition: background 0.3s ease, transform 0.1s ease;
+}
+
+button:hover, .btn:hover {
+    background: #FFC107;
+    color: #006400;
+    transform: translateY(-2px);
+}
+
+button:active, .btn:active {
+    transform: translateY(0);
+}
+
+button:disabled {
+    background: #cccccc;
+    color: #666666;
+    cursor: not-allowed;
+}
+
+/* Specific button styles for Approve and Cancel */
+button[onclick^="approveReservation"] {
+    background: #2ecc71;
+    margin-right: 0.5rem;
+}
+
+button[onclick^="approveReservation"]:hover {
+    background: #27ae60;
+    color: #FFFFFF;
+}
+
+button[onclick^="cancelReservation"] {
+    background: #e74c3c;
+}
+
+button[onclick^="cancelReservation"]:hover {
+    background: #c0392b;
+    color: #FFFFFF;
+}
+
+/* Table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+th, td {
+    border: 1px solid #FFC107;
+    padding: 0.75rem;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+th {
+    background: #006400;
+    color: #FFFFFF;
+    font-weight: 500;
+}
+
+tr:hover {
+    background: rgba(255, 193, 7, 0.2);
+}
+
+/* Profile picture styles */
+.profile-picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+    object-fit: cover;
+    border: 2px solid #FFC107;
+}
+
+#userProfilePicture, #currentProfilePicture {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 0 auto 1rem;
+    display: block;
+}
+
+/* Specific form fields */
+#studentFields, #staffFields {
+    display: none;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .container {
+        padding: 0 1rem;
+    }
+
+    header {
+        flex-direction: column;
+        text-align: center;
+        padding: 1rem;
+    }
+
+    header .logo {
+        margin-bottom: 0.75rem;
+    }
+
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    nav {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    nav a {
+        width: 100%;
+        text-align: center;
+        padding: 0.75rem;
+    }
+
+    form {
+        max-width: 100%;
+        padding: 1rem;
+    }
+
+    table {
+        font-size: 0.9rem;
+    }
+
+    th, td {
+        padding: 0.5rem;
+    }
+
+    button, .btn {
+        padding: 0.5rem 1rem;
+        font-size: 0.9rem;
+    }
+
+    .profile-picture, #userProfilePicture, #currentProfilePicture {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.2rem;
+    }
+
+    .container {
+        margin: 1rem auto;
+    }
+
+    h2 {
+        font-size: 1.3rem;
+    }
+
+    .profile-dropdown-content {
+        min-width: 140px;
+    }
+}

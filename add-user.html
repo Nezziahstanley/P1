@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add User - Ugep Library</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <a href="index.html" class="navbar-brand"><img src="images/Logo.png" alt="Ugep Library Logo"></a>
+            <div class="dropdown">
+                <button class="navbar-links">Profile</button>
+                <div class="dropdown-menu">
+                    <a href="profile.html">View Profile</a>
+                    <a href="edit-profiles.html">Edit Profile</a>
+                    <a href="librarian-dashboard.html">Dashboard</a>
+                    <a href="logout.html">Logout</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="glass-container">
+        <img src="images/library.jpg" alt="Library" class="library-img">
+        <h1 class="text-3xl font-bold mb-6">Add New User</h1>
+        <form id="addUserForm" action="api.php" method="POST">
+            <input type="hidden" name="action" value="addUser">
+            <div class="mb-4">
+                <label class="form-label">Full Name</label>
+                <input type="text" name="fullName" class="form-input" required>
+            </div>
+            <div class="mb-4">
+                <label class="form-label">Username</label>
+                <input type="text" name="username" class="form-input" required>
+            </div>
+            <div class="mb-4">
+                <label class="form-label">Email</label>
+                <input type="email" name="email" class="form-input" required>
+            </div>
+            <div class="mb-4">
+                <label class="form-label">Password</label>
+                <input type="password" name="password" class="form-input" required>
+            </div>
+            <div class="mb-4">
+                <label class="form-label">Role</label>
+                <select name="userType" class="form-input" required>
+                    <option value="student">Student</option>
+                    <option value="staff">Staff</option>
+                    <option value="librarian">Librarian</option>
+                </select>
+            </div>
+            <div class="mb-4">
+                <label class="form-label">Level</label>
+                <select name="level" class="form-input">
+                    <option value="">N/A</option>
+                    <option value="ND1">ND1</option>
+                    <option value="ND2">ND2</option>
+                    <option value="HND1">HND1</option>
+                    <option value="HND2">HND2</option>
+                </select>
+            </div>
+            <div class="mb-4">
+                <label class="form-label">Department</label>
+                <select name="department" class="form-input">
+                    <option value="">N/A</option>
+                    <option value="Computer Science">Computer Science</option>
+                    <option value="Business Administration">Business Administration</option>
+                    <option value="Civil Engineering">Civil Engineering</option>
+                    <option value="Accounting">Accounting</option>
+                    <option value="Electrical/Electronic Engineering">Electrical/Electronic Engineering</option>
+                    <option value="Architecture">Architecture</option>
+                    <option value="Statistics">Statistics</option>
+                    <option value="Economics">Economics</option>
+                    <option value="General Studies">General Studies</option>
+                </select>
+            </div>
+            <div class="mb-4">
+                <label class="form-label">Approved</label>
+                <input type="checkbox" name="approved" class="form-input">
+            </div>
+            <button type="submit" class="btn btn-success">Add User</button>
+        </form>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

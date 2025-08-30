@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Books by Category Chart</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('images/background.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: #FFFFFF;
+            padding: 2rem;
+        }
+        header {
+            background: #006400;
+            color: #FFFFFF;
+            padding: 1rem;
+            text-align: center;
+            border-radius: 5px;
+            margin-bottom: 2rem;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 1.5rem;
+            color: #FFC107;
+        }
+        canvas {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 5px;
+            padding: 1rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Federal Polytechnic Ugep Library - Books by Category</h1>
+    </header>
+    <canvas id="booksChart"></canvas>
+    <script>
+        const ctx = document.getElementById('booksChart').getContext('2d');
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['Computer Science', 'Statistics', 'Economics'],
+                datasets: [{
+                    label: 'Number of Books',
+                    data: [5, 4, 3],
+                    backgroundColor: ['#006400', '#FFC107', '#4CAF50'],
+                    borderColor: ['#FFFFFF', '#FFFFFF', '#FFFFFF'],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        title: {
+                            display: true,
+                            text: 'Number of Books',
+                            color: '#FFFFFF'
+                        },
+                        ticks: {
+                            color: '#FFFFFF'
+                        }
+                    },
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Category',
+                            color: '#FFFFFF'
+                        },
+                        ticks: {
+                            color: '#FFFFFF'
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        labels: {
+                            color: '#FFFFFF'
+                        }
+                    },
+                    title: {
+                        display: true,
+                        text: 'Books by Category in Federal Polytechnic Ugep Library',
+                        color: '#FFFFFF'
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
